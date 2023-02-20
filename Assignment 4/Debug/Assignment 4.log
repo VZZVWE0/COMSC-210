@@ -1,0 +1,23 @@
+﻿  MyDynamicArray.cpp
+C:\Users\annaf\Documents\COMSC-210\Module 4\Assignment 4\Assignment 4\Assignment 4\MyDynamicArray.cpp(35,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\annaf\Documents\COMSC-210\Module 4\Assignment 4\Assignment 4\Assignment 4\MyDynamicArray.cpp(37,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\annaf\Documents\COMSC-210\Module 4\Assignment 4\Assignment 4\Assignment 4\MyDynamicArray.cpp(45,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\annaf\Documents\COMSC-210\Module 4\Assignment 4\Assignment 4\Assignment 4\MyDynamicArray.cpp(57,21): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=int
+          ]
+C:\Users\annaf\Documents\COMSC-210\Module 4\Assignment 4\Assignment 4\Assignment 4\MyDynamicArray.cpp(73,21): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=int
+          ]
+C:\Users\annaf\Documents\COMSC-210\Module 4\Assignment 4\Assignment 4\Assignment 4\MyDynamicArray.cpp(89,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\annaf\Documents\COMSC-210\Module 4\Assignment 4\Assignment 4\Assignment 4\MyDynamicArray.cpp(89,39): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+          with
+          [
+              T=int
+          ]
+C:\Users\annaf\Documents\COMSC-210\Module 4\Assignment 4\Assignment 4\Assignment 4\DynamicArray.h(138): warning C4715: 'DynamicArray<double>::operator[]': not all control paths return a value
+C:\Users\annaf\Documents\COMSC-210\Module 4\Assignment 4\Assignment 4\Assignment 4\DynamicArray.h(138): warning C4715: 'DynamicArray<int>::operator[]': not all control paths return a value
+  Assignment 4.vcxproj -> C:\Users\annaf\Documents\COMSC-210\Module 4\Assignment 4\Assignment 4\Debug\Assignment 4.exe

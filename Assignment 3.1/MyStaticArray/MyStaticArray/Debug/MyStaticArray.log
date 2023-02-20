@@ -1,0 +1,5 @@
+﻿  MyStaticArray.cpp
+C:\Users\annaf\Documents\COMSC-210\Module 3\Assignment 3.1\MyStaticArray\MyStaticArray\MyStaticArray.cpp(35,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\annaf\Documents\COMSC-210\Module 3\Assignment 3.1\MyStaticArray\MyStaticArray\MyStaticArray.cpp(37,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\annaf\Documents\COMSC-210\Module 3\Assignment 3.1\MyStaticArray\MyStaticArray\MyStaticArray.cpp(76,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MyStaticArray.vcxproj -> C:\Users\annaf\Documents\COMSC-210\Module 3\Assignment 3.1\MyStaticArray\Debug\MyStaticArray.exe
